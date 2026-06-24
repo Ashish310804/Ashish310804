@@ -143,61 +143,7 @@ Learning through collaboration and community contributions.
 
 </div>
 
----
 
-# 📚 Learning Journey
-
-### Phase 1
-
-✅ Programming Fundamentals
-
-✅ C Programming
-
-✅ Java Programming
-
----
-
-### Phase 2
-
-✅ HTML
-
-✅ CSS
-
-✅ JavaScript
-
----
-
-### Phase 3
-
-✅ React.js
-
-✅ Git & GitHub
-
----
-
-### Phase 4
-
-🚀 Node.js
-
-🚀 Express.js
-
-🚀 MongoDB
-
-🚀 REST APIs
-
----
-
-### Phase 5
-
-🎯 System Design
-
-🎯 Cloud Computing
-
-🎯 DevOps
-
-🎯 AI Integration
-
----
 
 # 🧠 Developer Mindset
 
